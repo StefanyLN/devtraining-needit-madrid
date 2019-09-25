@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_category">
+    <asmt_metric_category action="DELETE">
+        <create_stakeholders>false</create_stakeholders>
+        <description/>
+        <details/>
+        <filter table="asmt_metric_type">sys_id=d68dec0adb04001002fba08a48961940^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="d68dec0adb04001002fba08a48961940"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <metric_type display_value="Questionário de encerramento">d68dec0adb04001002fba08a48961940</metric_type>
+        <name>Questionário de encerramento</name>
+        <order>1</order>
+        <qb_evaluation_method/>
+        <roles/>
+        <scoring_type>percent</scoring_type>
+        <sys_class_name>asmt_metric_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-23 19:25:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aa8da44adb04001002fba08a4896199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Questionário de encerramento</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>asmt_metric_category_aa8da44adb04001002fba08a4896199d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-23 19:25:16</sys_updated_on>
+        <table>asmt_metric_type</table>
+        <total_metrics/>
+        <weight>10</weight>
+    </asmt_metric_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=aa8da44adb04001002fba08a4896199d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f42e3127dbf8eb084f035d00cf961939</instance_id>
+        <instance_name>dev72050</instance_name>
+        <name>asmt_metric_category_aa8da44adb04001002fba08a4896199d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="asmt_metric_category"><asmt_metric_category action="INSERT_OR_UPDATE"><create_stakeholders>false</create_stakeholders><description/><details/><filter table="asmt_metric_type">sys_id=d68dec0adb04001002fba08a48961940^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="=" or="false" value="d68dec0adb04001002fba08a48961940"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><metric_type display_value="Questionário de encerramento">d68dec0adb04001002fba08a48961940</metric_type><name>Questionário de encerramento</name><order>1</order><qb_evaluation_method/><roles/><scoring_type>percent</scoring_type><sys_class_name>asmt_metric_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-23 19:25:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>aa8da44adb04001002fba08a4896199d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Questionário de encerramento</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>asmt_metric_category_aa8da44adb04001002fba08a4896199d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-23 19:25:16</sys_updated_on><table>asmt_metric_type</table><total_metrics/><weight>10</weight></asmt_metric_category><sys_translated_text action="delete_multiple" query="documentkey=aa8da44adb04001002fba08a4896199d"/></record_update>]]></payload>
+        <payload_hash>-1166931545</payload_hash>
+        <record_name>Questionário de encerramento</record_name>
+        <reverted_from/>
+        <source>42e976d4db00001002fba08a48961982</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-23 19:25:16</sys_created_on>
+        <sys_id>6e8da44adb04001002fba08a489619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d5f95d0e20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-23 19:25:16</sys_updated_on>
+        <type>Metric Category</type>
+        <update_guid>a68da44a55040010a5ece0f269d9f0a3</update_guid>
+        <update_guid_history>a68da44a55040010a5ece0f269d9f0a3:-1166931545</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Questionário de encerramento">ebc5fc42db44001002fba08a48961924</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-23 20:01:23</sys_created_on>
+        <sys_db_object display_value="" name="asmt_metric_category">asmt_metric_category</sys_db_object>
+        <sys_id>a079e507b81948b89baa0f0ca3f47621</sys_id>
+        <sys_metadata>aa8da44adb04001002fba08a4896199d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Questionário de encerramento</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>asmt_metric_category_aa8da44adb04001002fba08a4896199d</sys_update_name>
+        <sys_update_version display_value="asmt_metric_category_aa8da44adb04001002fba08a4896199d">6e8da44adb04001002fba08a489619a3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-23 20:01:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
